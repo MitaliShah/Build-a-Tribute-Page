@@ -1,7 +1,8 @@
-# Build a Tribute Page
+## Build a Tribute Page
 
-##FreeCodeCamp Responsive Web Design Projects: Project#1 - Build a Tribute Page
+## About this project:
+This project is part of [freecodecamp](https://www.freecodecamp.org/) Responsive Web Design.
 
-#Live Page:
+## Project Link:
 
-##view the live project click [this link](https://mitalishah.github.io/Build-a-Tribute-Page/).
+Click [here](https://mitalishah.github.io/Build-a-Tribute-Page/) to view the live page.
